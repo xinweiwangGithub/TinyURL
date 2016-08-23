@@ -1,0 +1,54 @@
+
+> tinyurl@0.0.0 start /var/www/html/web07/zizuo/17tinyurl
+> node ./bin/www
+
+Port 3000 is already in use
+
+npm ERR! Linux 3.16.0-70-generic
+npm ERR! argv "node" "/usr/local/bin/npm" "start"
+npm ERR! node v0.10.25
+npm ERR! npm  v3.3.12
+npm ERR! code ELIFECYCLE
+npm ERR! tinyurl@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the tinyurl@0.0.0 start script 'node ./bin/www'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the tinyurl package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls tinyurl
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /var/www/html/web07/zizuo/17tinyurl/model/npm-debug.log
+
+> tinyurl@0.0.0 start /var/www/html/web07/zizuo/17tinyurl
+> node ./bin/www
+
+[0mGET / [36m304 [0m6.017 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.092 ms - -[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m6.394 ms - 35[0m
+[0mGET / [36m304 [0m0.812 ms - -[0m
+[0mPOST / [32m200 [0m16.142 ms - 455[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.308 ms - -[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m1.383 ms - 35[0m
+[0mGET / [32m200 [0m0.688 ms - 412[0m
+error: null
+[0mGET /3 [36m302 [0m1.779 ms - 58[0m
+[0mGET / [36m304 [0m0.490 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.201 ms - -[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m0.903 ms - 35[0m
+[0mGET / [36m304 [0m0.964 ms - -[0m
+error: null
+[0mGET /3 [36m302 [0m0.944 ms - 58[0m
+[0mGET / [36m304 [0m0.473 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.203 ms - -[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m0.718 ms - 35[0m
+[0mGET / [36m304 [0m0.480 ms - -[0m

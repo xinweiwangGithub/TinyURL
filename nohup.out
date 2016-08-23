@@ -1,0 +1,50 @@
+
+> tinyurl@0.0.0 start /var/www/html/web07/zizuo/17tinyurl
+> node ./bin/www
+
+[0mGET / [36m304 [0m5.835 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.099 ms - -[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m5.623 ms - 35[0m
+[0mGET / [36m304 [0m0.916 ms - -[0m
+[0mPOST / [32m200 [0m55.336 ms - 449[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.294 ms - -[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m1.353 ms - 35[0m
+[0mGET / [32m200 [0m0.675 ms - 412[0m
+[0mGET / [32m200 [0m0.569 ms - 412[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.149 ms - 111[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m0.865 ms - 35[0m
+[0mGET / [36m304 [0m0.663 ms - -[0m
+[0mGET / [36m304 [0m0.965 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.993 ms - -[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m0.723 ms - 35[0m
+[0mGET / [36m304 [0m0.484 ms - -[0m
+[0mPOST / [32m200 [0m68.212 ms - 449[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.202 ms - -[0m
+error: null
+[0mGET /favicon.ico [36m302 [0m0.844 ms - 35[0m
+[0mGET / [32m200 [0m0.476 ms - 412[0m
+
+npm ERR! Linux 3.16.0-70-generic
+npm ERR! argv "node" "/usr/local/bin/npm" "start"
+npm ERR! node v0.10.25
+npm ERR! npm  v3.3.12
+npm ERR! code ELIFECYCLE
+npm ERR! tinyurl@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the tinyurl@0.0.0 start script 'node ./bin/www'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the tinyurl package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls tinyurl
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /var/www/html/web07/zizuo/17tinyurl/npm-debug.log
