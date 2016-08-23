@@ -17,6 +17,7 @@
 
 Make sure you have Node.js installed.
 Download the whole file, use terminal and $cd into it.
+
 $npm start
 $npm install express-session connect-mongo --save
 
